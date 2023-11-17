@@ -1,6 +1,6 @@
 # Identification system
 
-## This project used tensorflow object detection API and ML models to identify students from thier ID cards
+## This project uses tensorflow object detection API and ML models to identify students from thier ID cards
 
 * After data collection the LabelImg library is used to annotate the image part of identity card
 * After the model is trained it is able to extract the student image from an unseen identity card
